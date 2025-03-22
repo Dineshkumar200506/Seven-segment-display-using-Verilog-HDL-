@@ -7,7 +7,7 @@ To design and simulate a seven-segment display driver using Verilog HDL, and ver
 - **Vivado 2023.1**  
 - **Computer system** with a suitable operating system  
 
-## Procedure  
+## Procedure 
 
 ### 1. Launch Vivado 2023.1  
 - Open Vivado and create a new project.  
